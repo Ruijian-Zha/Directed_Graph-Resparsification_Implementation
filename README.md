@@ -1,7 +1,7 @@
 # Directed Graph Resparsification Implementation
 
 ## Overview
-This repository contains the implementation for the paper "Extending Resparsification Frameworks to Directed Graph Spectral Sparsification" by Shouyi Li, Ruijian Zha, and collaborators. This work was completed as a final project for COMSW4232 at Columbia University.
+This repository contains the implementation for the paper "Extending Resparsification Frameworks to Directed Graph Spectral Sparsification" by Shouyi Li, Ruijian Zha, and Chunyu Sui. This work was completed as a final project for COMSW4232 at Columbia University.
 
 ## Project Description
 Spectral sparsification is a technique for creating smaller, spectrally similar subgraphs that preserve important graph properties. While this has been well-studied for undirected graphs, extending these techniques to directed graphs presents unique challenges due to the non-symmetric nature of directed Laplacians.
