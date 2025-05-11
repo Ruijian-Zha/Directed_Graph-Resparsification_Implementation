@@ -99,7 +99,7 @@ This comparison shows how ADR performs on different synthetic graph models, incl
 ## Authors
 - Shouyi Li (sl5632@columbia.edu)
 - Ruijian Zha (rz2689@columbia.edu)
-- [Additional collaborator]
+- Chunyu Sui（cs4480@columbia.edu ）
 
 ## Citation
 If you use this code in your research, please cite:
@@ -107,7 +107,7 @@ If you use this code in your research, please cite:
 ```bibtex
 @techreport{li2024extending,
   title={Extending Resparsification Frameworks to Directed Graph Spectral Sparsification},
-  author={Li, Shouyi and Zha, Ruijian and [Others]},
+  author={Li, Shouyi and Zha, Ruijian and Chunyu Sui},
   institution={Columbia University},
   year={2024},
   note={COMSW4232 Final Project}
